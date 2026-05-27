@@ -23,7 +23,7 @@ email: felipe.b4rros@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Proyecto desarrollado por docentes y estudiantes de la Tecnicatura Universitaria en Sistemas de Información Geográfica y Teldetección (TUSIGyT) de la Universidad Nacional de Misiones (UNaM) - Argentina.
 url: "https://tusigyt.github.io"
-baseurl: "/lit/proyecto_siniestros_viales_page"
+baseurl: "/lit"
 twitter_username: 
 github_username:  FelipeSBarros
 linkedin_username:  felipesodre
